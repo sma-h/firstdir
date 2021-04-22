@@ -1,4 +1,6 @@
 # Mein erstes Git Repositorium
 
-## Autorin: sma-h
+Mein count.sh Skript
 
+## Autorin: sma-h
+## 2021-04-22
